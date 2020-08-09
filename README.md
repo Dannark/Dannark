@@ -4,10 +4,9 @@ I also have experience with game development, 4 years with Unity.
 
 Right now working on MMO Game with NodeJS for the backend server and Flutter for the mobile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannark)](https://github.com/Dannark/Dannark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannark&layout=compact)](https://github.com/Dannark/Dannark)
 ![Dannark's github stats](https://github-readme-stats.vercel.app/api?username=Dannark&theme=gotham&show_icons=true)
 
-[![Borderless World Online](https://github-readme-stats.vercel.app/api/pin/?username=dannark&repo=bwo)](https://github.com/dannark/bwo)
 <!--
 **Dannark/Dannark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
