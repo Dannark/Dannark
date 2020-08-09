@@ -8,10 +8,8 @@ Right now working on MMO Game with NodeJS for the backend server and Flutter for
 ![Dannark's github stats](https://github-readme-stats.vercel.app/api?username=Dannark&theme=gotham&show_icons=true&hide=prs)
 
 ## Some of My work:
-### Zoon Fit:
 ![print1](https://user-images.githubusercontent.com/7622553/89722276-15254880-d9be-11ea-93a5-706ac7cac2dd.gif)
 
-### Borderless World Online
 ![mmo](https://user-images.githubusercontent.com/7622553/89722307-7220fe80-d9be-11ea-9325-ac2bfb458ed4.png)
 
 
