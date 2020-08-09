@@ -5,7 +5,7 @@ I also have experience with game development, 4 years with Unity.
 Right now working on MMO Game with NodeJS for the backend server and Flutter for the mobile.
 
 ![Dannark's github stats](https://github-readme-stats.vercel.app/api?username=Dannark&theme=gotham&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannark&layout=compact)](https://github.com/Dannark/Dannark)
 <!--
 **Dannark/Dannark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
