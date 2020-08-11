@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniel, 26 years old. Android development lover with 3 years experience in native java/kotlin, 1 year in React Native and now studying Flutter since march 2020.
+My name is Daniel, 26 years old. Android development lover with 3 years experience in native java, 1 year in React Native and I'm currently studying Flutter since march 2020.
 I also have experience with game development, 4 years with Unity.
 
 Right now working on MMO Game with NodeJS for the backend server and Flutter for the mobile.
