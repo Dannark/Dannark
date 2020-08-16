@@ -10,7 +10,7 @@ Right now working on MMO Game with NodeJS for the backend server and Flutter for
 ----
 
 ### Some of My work: 🔭
-![print1](https://user-images.githubusercontent.com/7622553/89722276-15254880-d9be-11ea-93a5-706ac7cac2dd.gif) ![export](https://user-images.githubusercontent.com/7622553/88120935-99906280-cb9a-11ea-9f4a-05c6b5d9ab61.gif) ![sodexo-mini](https://user-images.githubusercontent.com/7622553/89722532-f1afcd00-d9c0-11ea-8c39-1939cde91e74.png)
+![print1](https://user-images.githubusercontent.com/7622553/89722276-15254880-d9be-11ea-93a5-706ac7cac2dd.gif) ![sodexo-mini](https://user-images.githubusercontent.com/7622553/89722532-f1afcd00-d9c0-11ea-8c39-1939cde91e74.png)![gameplay1](https://user-images.githubusercontent.com/7622553/90344825-b0887000-dff3-11ea-9d1e-eca2ec55af6f.gif)
 
 
 
