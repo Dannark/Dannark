@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Daniel, Android development with experience in native java, React Native and currently studying Flutter.
+I'm Daniel, Android development with experience in native java/Kotlin, React Native and currently studying Flutter.
 I also have experience with game development in Unity and Java.
 
 Right now working on MMO Game with NodeJS for the backend server and Flutter for the mobile.
