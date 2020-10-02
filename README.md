@@ -1,8 +1,10 @@
 ### Hi there 👋
-I'm Daniel, Android development with experience in native java/Kotlin, React Native and currently studying Flutter.
+I'm Daniel, Android development with experience in native java/Kotlin, React Native and Flutter.
 I also have experience with game development, python and javascript.
 
-Right now working on MMO Game with NodeJS for the backend server and Flutter for the mobile.
+Recently working on MMO Game with NodeJS for the backend server and Flutter.
+
+Currently studying data structures and algorithms with python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannark&layout=compact)](https://github.com/Dannark/Dannark)
 ![Dannark's github stats](https://github-readme-stats.vercel.app/api?username=Dannark&theme=gotham&show_icons=true&hide=prs)
