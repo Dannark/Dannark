@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Daniel, Android developer with experience java, I also React Native and a bit of Flutter
+I'm Daniel, Android developer with experience java, I also now React Native and a bit of Flutter
 I Love game development, with some experience in c#, python and javascript.
 
 Previously worked on MMO Game with NodeJS for the backend server and Flutter.
